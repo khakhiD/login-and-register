@@ -8,7 +8,6 @@
 
 
 ## TIL
-- - -
 * Wrapper 클래스 CSS 참고
   * overflow: hidden; -> 요소 바깥으로 튀어나오는 자식요소 숨기기
   * backdrop-filter: blur(20px);
